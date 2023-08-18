@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/732776848874703849/3884fd48d79a4a6983df5f520bd19b61/artifacts
+deleted_time: 1692359727670
+end_time: null
+entry_point_name: ''
+experiment_id: '732776848874703849'
+lifecycle_stage: deleted
+run_id: 3884fd48d79a4a6983df5f520bd19b61
+run_name: Session Initialized 2593
+run_uuid: 3884fd48d79a4a6983df5f520bd19b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692356583741
+status: 1
+tags: []
+user_id: logasubbu

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/732776848874703849/87a642f1f21c425f8152e5ba28246aef/artifacts
+deleted_time: 1692359727670
+end_time: 1692357588416
+entry_point_name: ''
+experiment_id: '732776848874703849'
+lifecycle_stage: deleted
+run_id: 87a642f1f21c425f8152e5ba28246aef
+run_name: Light Gradient Boosting Machine
+run_uuid: 87a642f1f21c425f8152e5ba28246aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692357582323
+status: 3
+tags: []
+user_id: logasubbu

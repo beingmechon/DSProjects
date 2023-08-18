@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/8dfeb06cae0c4374bd8e5742a92b497e/artifacts
+end_time: 1692360534911
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: 8dfeb06cae0c4374bd8e5742a92b497e
+run_name: Logistic Regression
+run_uuid: 8dfeb06cae0c4374bd8e5742a92b497e
+start_time: 1692360529748
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

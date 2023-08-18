@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/3c338705365844dc97a6a7ddea106a14/artifacts
+end_time: 1692360496954
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: 3c338705365844dc97a6a7ddea106a14
+run_name: Decision Tree Classifier
+run_uuid: 3c338705365844dc97a6a7ddea106a14
+start_time: 1692360492153
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

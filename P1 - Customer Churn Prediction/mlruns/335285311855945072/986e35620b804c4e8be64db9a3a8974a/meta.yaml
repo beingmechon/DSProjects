@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/986e35620b804c4e8be64db9a3a8974a/artifacts
+end_time: 1692360520658
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: 986e35620b804c4e8be64db9a3a8974a
+run_name: Extra Trees Classifier
+run_uuid: 986e35620b804c4e8be64db9a3a8974a
+start_time: 1692360516413
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

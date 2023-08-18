@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/732776848874703849/8fe22f193ca54dec8b43aadef6508152/artifacts
+deleted_time: 1692359727670
+end_time: 1692357349830
+entry_point_name: ''
+experiment_id: '732776848874703849'
+lifecycle_stage: deleted
+run_id: 8fe22f193ca54dec8b43aadef6508152
+run_name: K Neighbors Classifier
+run_uuid: 8fe22f193ca54dec8b43aadef6508152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692357345487
+status: 3
+tags: []
+user_id: logasubbu

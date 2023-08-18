@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/f75aa771f0cf4b8e95e074768649df16/artifacts
+end_time: 1692360482225
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: f75aa771f0cf4b8e95e074768649df16
+run_name: Light Gradient Boosting Machine
+run_uuid: f75aa771f0cf4b8e95e074768649df16
+start_time: 1692360477731
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/215f6ab9f37e4106b46c762d402fb204/artifacts
+end_time: 1692360516222
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: 215f6ab9f37e4106b46c762d402fb204
+run_name: Random Forest Classifier
+run_uuid: 215f6ab9f37e4106b46c762d402fb204
+start_time: 1692360511807
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

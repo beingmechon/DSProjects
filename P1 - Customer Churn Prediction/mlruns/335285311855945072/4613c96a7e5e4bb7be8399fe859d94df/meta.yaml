@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/4613c96a7e5e4bb7be8399fe859d94df/artifacts
+end_time: 1692360511595
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: 4613c96a7e5e4bb7be8399fe859d94df
+run_name: Gradient Boosting Classifier
+run_uuid: 4613c96a7e5e4bb7be8399fe859d94df
+start_time: 1692360506890
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

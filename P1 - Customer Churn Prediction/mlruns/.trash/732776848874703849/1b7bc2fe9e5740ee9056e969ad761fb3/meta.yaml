@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/732776848874703849/1b7bc2fe9e5740ee9056e969ad761fb3/artifacts
+deleted_time: 1692359727670
+end_time: 1692357387444
+entry_point_name: ''
+experiment_id: '732776848874703849'
+lifecycle_stage: deleted
+run_id: 1b7bc2fe9e5740ee9056e969ad761fb3
+run_name: Linear Discriminant Analysis
+run_uuid: 1b7bc2fe9e5740ee9056e969ad761fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692357383117
+status: 3
+tags: []
+user_id: logasubbu

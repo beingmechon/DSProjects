@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/c96a5646ccf3403c8912ec4527737ee0/artifacts
+end_time: 1692360487453
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: c96a5646ccf3403c8912ec4527737ee0
+run_name: Extreme Gradient Boosting
+run_uuid: c96a5646ccf3403c8912ec4527737ee0
+start_time: 1692360482426
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''

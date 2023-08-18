@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/DSProjects/P1%20-%20Customer%20Churn%20Prediction/mlruns/335285311855945072/505dc479d4334c308ee6f35571a81e9f/artifacts
+end_time: 1692360472592
+experiment_id: '335285311855945072'
+lifecycle_stage: active
+run_id: 505dc479d4334c308ee6f35571a81e9f
+run_name: Naive Bayes
+run_uuid: 505dc479d4334c308ee6f35571a81e9f
+start_time: 1692360466015
+status: 3
+user_id: logasubbu
+tags: []
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''
