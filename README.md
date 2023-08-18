@@ -4,7 +4,7 @@ This repository contains data and code for MLOps resume projects or as MLOps lea
 
 ## Project 1 Customer Churn Prediction
 This project is about prediction of customer churn. 
-/n
+\n
 Data source: [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 /n
 Outcome of the project:
